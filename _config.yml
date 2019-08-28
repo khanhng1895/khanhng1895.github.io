@@ -2,8 +2,8 @@ title:              Khanh Nguyen's Blog
 email:              khanh1895@gmail.com
 description:        Just another PM on the internet
 author:             Khanh Nguyen
-baseurl:            "https://khanhng1895.github.io"
-url:                ""
+baseurl:            ""
+url:                "https://khanhng1895.github.io"
 
 # Social Profiles
 twitter_username:
